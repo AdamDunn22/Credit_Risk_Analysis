@@ -50,4 +50,5 @@ Trying to predict someone's credit risk is very difficult to predict so we will 
 
 ![Easy_ensemble](https://user-images.githubusercontent.com/108701073/197415748-29d463d6-54f6-4605-9603-62b76d294158.png)
 
-## Conclusion
+## Summary
+In conclusion in our first four models we tried to oversample, undersample and a combination of both. Then in our next two models we redid the code and used ensemble identifiers. The Accuracy , and recall scores for our different sample size models is lower then the classifier models and you tend to want to have models that are balanced in both of these categories. Overall the best models are the classifers and the best model overall would be the Easy Ensemble Adaboost Classifier model with an Accuracy score of 91% and a recall of 94%
